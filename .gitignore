@@ -3,10 +3,13 @@
 
 # Log file
 *.log
+<<<<<<< HEAD
 *.settings
 *.project
 *.classpath
 
+=======
+>>>>>>> c51d8090074a5d5ea60b2f150b99b09a9477850a
 
 # BlueJ files
 *.ctxt
